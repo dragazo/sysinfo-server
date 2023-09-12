@@ -2,6 +2,8 @@
     "cSpell.words": [
         "actix",
         "cpus",
+        "Deque",
+        "superslice",
         "sysinfo"
     ]
 }

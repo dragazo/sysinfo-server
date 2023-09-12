@@ -8,5 +8,6 @@ edition = "2021"
 [dependencies]
 sysinfo = "0.29.10"
 actix-web = "4.4.0"
-serde = { version = "1.0", features = ["derive"] }
+superslice = "1.0"
 serde_json = "1.0"
+serde = { version = "1.0", features = ["derive"] }
